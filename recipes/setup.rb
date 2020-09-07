@@ -7,7 +7,8 @@ packages = [
 	'wget',
 	'curl',
 	'vim',
-	'nano'
+	'nano',
+	'net-tools'
 ]
 
 
